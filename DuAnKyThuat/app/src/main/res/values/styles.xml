@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="textView" parent="Widget.AppCompat.TextView">
+        <item name="textAllCaps" >false</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="MyTimePickerWidgetStyle" parent="@android:style/Widget.Material.TimePicker">
+<!--        <item name="android:headerBackground">@color/stayGray</item>-->
+        <item name="android:numbersTextColor">#fff</item>
+        <item name="android:numbersInnerTextColor">#fff</item>
+<!--        <item name="android:numbersSelectorColor">@color/stayGray</item>-->
+        <item name="android:amPmTextColor">#fff</item>
+    </style>
+
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1085991302630",
+    "firebase_url": "https://du-an-75630-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "du-an-75630",
+    "storage_bucket": "du-an-75630.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085991302630:android:32916aa3ba73b001da1227",
+        "android_client_info": {
+          "package_name": "com.example.duankythuat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085991302630-9un7sce1s32kcfd8on3lgcuoh8qor3ef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk5bauPYYADM0iy0cj2RlD9JNtHDpLBYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085991302630-9un7sce1s32kcfd8on3lgcuoh8qor3ef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
